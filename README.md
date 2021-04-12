@@ -4,7 +4,7 @@ Apaixonado por programação Java e banco de dados, buscando sempre o que ha de 
 Tenho sede por conhecimento e acredito que devemos sempre compartilhar, pois assim sempre podemos nos desenvolver. 
 Cursando Análise e Desenvolvimento de Sistemas, entre outros cursos em paralelo que reforçam o quanto descobri o quanto amo cada desafio que surge. 
 
-##Manda um Salve :v:
+## Manda um Salve :v:
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/lucas-igor-marques-nogueira-9ba79074/) 
 [![Connect on Facebook](https://img.shields.io/badge/Facebook-blue)](https://www.facebook.com/lucasigoramnogueira/) 
