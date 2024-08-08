@@ -1,7 +1,7 @@
 ## Vida longa e próspera 🖖
 
 Apaixonado por programaçãos, buscando sempre o que ha de novo e relacionar com possiveis melhorias do que ja conheço. Tenho sede por conhecimento e acredito que devemos sempre compartilhar, pois assim sempre podemos nos desenvolver.
-Cursando Análise e Desenvolvimento de Sistemas, entre outros cursos em paralelo que reforçam o quanto descobri que amo cada desafio que surge.
+Formado em Análise e Desenvolvimento de Sistemas, entre outros cursos em paralelo que reforçam o quanto descobri que amo cada desafio que surge.
 
 ## Manda um Salve :v:
 
@@ -13,8 +13,8 @@ Cursando Análise e Desenvolvimento de Sistemas, entre outros cursos em paralelo
 <img src="https://komarev.com/ghpvc/?username=LucasAvilla&label=Profile%20views&color=0e75b6&style=social" alt="Lucas Igor A M Nogueira" />
 
 ## O que estou fazendo atualmente?
-- :muscle: Atualmente trabalho como Programador trainee em linguagem Java.
-- 📚 Estudando ADS e , focando nas seguintes competências:
+- :muscle: Atualmente em busca de novas oportunidade omo Programador Java.
+- 📚 Formado ADS e , focando nas seguintes competências:
 
   - JAVA EE: Servlets, JSP, JSF, Facelets, Maven.
   - JAVA SE: Swing, JDBC.
@@ -30,7 +30,7 @@ Cursando Análise e Desenvolvimento de Sistemas, entre outros cursos em paralelo
 - :heart_eyes: Pai e amante de Animes.
 - 🎧Curtindo um Rock:metal: .
 - 🍴 Chef de Cozinha em Aprimoramento.
--🎮 Gamer, principalmente Diablo III e WOW.
+-🎮 Gamer, principalmente Diablo IV e  Assassin's Creed Valhalla.
 
 ## Tecnologias, Ferramentas e Linguagens
 
